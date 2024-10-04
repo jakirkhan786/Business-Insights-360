@@ -1,9 +1,9 @@
 # Business-Insights-360
 
-**Project Overview**
+# Project Overview
 AtliQ Hardware is experiencing rapid growth and has decided to implement data analytics using PowerBI for the first time. The goal is to surpass competitors in the market and make data-driven decisions across finance, sales, marketing, and supply chain.
 
-**Toolchains**
+# Toolchains
 SQL
 
 PowerBi Desktop
@@ -16,7 +16,7 @@ DAX studio (for optimizing the report)
 
 Project charter file
 
-**PowerBI techniques Learnt**
+# PowerBI techniques Learnt
 Creating calculated columns
 
 creating measure using DAX language
@@ -49,7 +49,7 @@ PowerBi App creation
 
 Collaboration, workspace, access permissions in PowerBi services
 
-**Business-Related Terms**
+# Business-Related Terms
 Gross price
 
 Pre-invoice deductions
@@ -78,7 +78,7 @@ Distributors
 
 Consumer
 
-**Company Background**
+# Company Background
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
@@ -89,7 +89,7 @@ Distributors
 
 Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
-**Dataset Understanding**
+# Dataset Understanding
 Dimension Tables:
 
 dim_customer: Details of customers and products
@@ -106,10 +106,10 @@ fact_sales_monthly: Actual sales data
 
 gdb056 tables: Various cost details
 
-**Importing Data into PowerBI**
+# Importing Data into PowerBI
 Datasets are imported from MySQL database to PowerBI using database access credentials.
 
-**Data Model**
+# Data Model
 Data modeling is crucial for report performance. Good practices, including Snowflake data modeling, are followed.
 
 ![image](https://github.com/user-attachments/assets/90b7f57c-bbe7-4df0-ac60-e83decbf3e5a)
@@ -117,10 +117,10 @@ Data modeling is crucial for report performance. Good practices, including Snowf
 
 data model_page-0001
 
-**Dashboard designing**
+# Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-**Home view**
+# Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
 Info
@@ -137,23 +137,23 @@ Executive View
 
 Support
 
-**Info Page**
+# Info Page
 ![1st page_page-0001](https://github.com/user-attachments/assets/c48784d1-d4cb-417a-899a-4fbc76a98ccf)
 
 
-**Finance View**
+# Finance View
 ![2nd page_page-0001](https://github.com/user-attachments/assets/3d7c5a70-911b-4164-89f2-640b97f11ef9)
 
 
-**Sales View**
+# Sales View
 ![3rd page_page-0001](https://github.com/user-attachments/assets/da5a3b39-278d-45b5-99cd-81fd00305574)
 
 
-**Marketing View**
+# Marketing View
 ![4th page_page-0001](https://github.com/user-attachments/assets/496e78c0-aa7c-4cbd-bb7d-d6180bb49a98)
 
 
-**Supply Chain View**
+# Supply Chain View
 ![5th page_page-0001](https://github.com/user-attachments/assets/9803ffa2-86b8-4066-b108-8f9e9b23ca75)
 
 

@@ -1,4 +1,4 @@
-# Business-Insights-360
+![4th page_page-0001](https://github.com/user-attachments/assets/355bf52f-9c6f-4bfe-9723-4c7ac9ab0e93)![2nd page_page-0001](https://github.com/user-attachments/assets/783e8fa0-ca5a-4501-82be-70bd7db7f066)# Business-Insights-360
 
 **Project Overview**
 AtliQ Hardware is experiencing rapid growth and has decided to implement data analytics using PowerBI for the first time. The goal is to surpass competitors in the market and make data-driven decisions across finance, sales, marketing, and supply chain.
@@ -135,22 +135,28 @@ Executive View
 Support
 
 **Info Page**
-1st page_page-0001
+![1st page_page-0001](https://github.com/user-attachments/assets/c48784d1-d4cb-417a-899a-4fbc76a98ccf)
+
 
 **Finance View**
-2nd page_page-0001
+![2nd page_page-0001](https://github.com/user-attachments/assets/3d7c5a70-911b-4164-89f2-640b97f11ef9)
+
 
 **Sales View**
-3rd page_page-0001
+![3rd page_page-0001](https://github.com/user-attachments/assets/da5a3b39-278d-45b5-99cd-81fd00305574)
+
 
 **Marketing View**
-4th page_page-0001
+![4th page_page-0001](https://github.com/user-attachments/assets/496e78c0-aa7c-4cbd-bb7d-d6180bb49a98)
+
 
 **Supply Chain View**
-5th page_page-0001
+![5th page_page-0001](https://github.com/user-attachments/assets/9803ffa2-86b8-4066-b108-8f9e9b23ca75)
+
+
 
 **Executive View**
-6th page_page-0001
+![6th page_page-0001](https://github.com/user-attachments/assets/4b13c07d-9509-476e-871b-ef1e407406cf)
 
 **Project Outcome**
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.

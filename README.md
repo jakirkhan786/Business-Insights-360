@@ -1,4 +1,4 @@
-![4th page_page-0001](https://github.com/user-attachments/assets/355bf52f-9c6f-4bfe-9723-4c7ac9ab0e93)![2nd page_page-0001](https://github.com/user-attachments/assets/783e8fa0-ca5a-4501-82be-70bd7db7f066)# Business-Insights-360
+**Business-Insights-360**
 
 **Project Overview**
 AtliQ Hardware is experiencing rapid growth and has decided to implement data analytics using PowerBI for the first time. The goal is to surpass competitors in the market and make data-driven decisions across finance, sales, marketing, and supply chain.

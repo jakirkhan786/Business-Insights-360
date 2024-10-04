@@ -1,4 +1,4 @@
-**Business-Insights-360**
+# Business-Insights-360
 
 **Project Overview**
 AtliQ Hardware is experiencing rapid growth and has decided to implement data analytics using PowerBI for the first time. The goal is to surpass competitors in the market and make data-driven decisions across finance, sales, marketing, and supply chain.
@@ -111,6 +111,9 @@ Datasets are imported from MySQL database to PowerBI using database access crede
 
 **Data Model**
 Data modeling is crucial for report performance. Good practices, including Snowflake data modeling, are followed.
+
+![image](https://github.com/user-attachments/assets/90b7f57c-bbe7-4df0-ac60-e83decbf3e5a)
+
 
 data model_page-0001
 
